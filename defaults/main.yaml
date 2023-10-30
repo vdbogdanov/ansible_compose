@@ -1,4 +1,3 @@
----
 ovpn:
   work_dir: "~/services/openvpn"
   port: "1194"
